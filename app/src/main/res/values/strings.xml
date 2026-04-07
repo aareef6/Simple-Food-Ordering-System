@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spice &amp; Savor</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_admin_home">AdminHomeActivity</string>
+    <string name="title_activity_admin_products">AdminProductsActivity</string>
+    <string name="title_activity_admin_add_product">AdminAddProductActivity</string>
+</resources>
