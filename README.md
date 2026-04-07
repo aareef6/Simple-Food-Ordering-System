@@ -52,7 +52,7 @@ This app is **self-contained** and focuses on managing orders inside the applica
 
 ## 🚀 Installation (APK)
 
-1. Download the APK file from this repository
+1. Generate the APK file from this repository
 2. Install it on your Android device
 3. Open the app and start browsing the menu & placing orders
 
